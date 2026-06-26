@@ -1,0 +1,9 @@
+app - *.html
+Perfil de Riesgo v3.html
+app_with_toggle.html
+widget.html
+widget2.html
+*.png
+*.py
+.DS_Store
+*.xlsx
